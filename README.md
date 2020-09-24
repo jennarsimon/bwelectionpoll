@@ -1,4 +1,4 @@
-# bwelectionpoll
+# <em>The Brown and White</em> Lehigh University 2020 Election Poll
 
 To assess Lehigh University's sentiments on candidates and issues relating to the 2020 Presidential Election, a survey was made available to community members via the social media accounts of <em>The Brown and White</em>, The Lehigh University newspaper. The survey was also distributed to faculty and administration members by direct email.
 
