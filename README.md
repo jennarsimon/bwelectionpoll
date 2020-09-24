@@ -1,6 +1,6 @@
 # bwelectionpoll
 
-To assess the Lehigh University community's sentiments on candidates and issues relating to the 2020 Presidential Election, a survey was made available to community members via the social media accounts of <em>The Brown and White</em>, The Lehigh University newspaper. The survey was also distributed to faculty and administration members by direct email.
+To assess Lehigh University's sentiments on candidates and issues relating to the 2020 Presidential Election, a survey was made available to community members via the social media accounts of <em>The Brown and White</em>, The Lehigh University newspaper. The survey was also distributed to faculty and administration members by direct email.
 
 <em>The Brown and White</em> first analyzed responses by looking at the community as a whole, and then again by looking at how responses differed by college, and at how responses differed by Lehigh affiliation. For purposes of the poll, “Lehigh affiliation” refers to whether the respondent was an undergraduate student, a graduate student, a faculty member, a staff member, or an administrator.
 
