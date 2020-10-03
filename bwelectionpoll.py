@@ -4,6 +4,7 @@ import numpy as np
 from oauth2client.service_account import ServiceAccountCredentials
 from df2gspread import df2gspread as d2g
 
+# lines 8-18 informed by https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
 # use creds to create a client to interact with the Google Drive API
 scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
 creds = ServiceAccountCredentials.from_json_keyfile_name('client_secret.json', scope)
